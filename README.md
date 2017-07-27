@@ -1,7 +1,5 @@
 # Fisher_LMM
-Simulated Data for "Identifying Pleiotropic Genes in Genome-Wide Association Studies from Related Subjects using the Linear Mixed Model and Fisher Combination Function "
-## Synopsis
-This foloder contains simulated data files published in "Identifying Pleiotropic Genes in Genome-Wide Association Studies from Related Subjects using the Linear Mixed Model and Fisher Combination Function." The descriptions of variables in each file are listed below.
+Simulated Data for "Identifying Pleiotropic Genes in Genome-Wide Association Studies from Related Subjects using the Linear Mixed Model and Fisher Combination Function." There are seven files and the descriptions of variables in each file are listed below.
 
 ## fig1_nonadmixed_indep.txt
 rho: correlation between phenotyps 
